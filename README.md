@@ -8,9 +8,9 @@ This repository contains my work in financial analysis, valuation, and data anal
 - Tools: Python, SQL, Excel  
 - Objective: Analyze sales data and customer behavior  
 - Key Insights: Key Insights:
-- Identified top-performing product categories contributing majority revenue
+- Identified top performing product categories contributing majority revenue
 - Observed seasonal sales spikes during specific periods
-- Suggested data-driven decision making for inventory planning  
+- Suggested data driven decision making for inventory planning  
 
 ### 2. DCF Valuation Models
 - Companies: Infosys, Reliance  
@@ -27,8 +27,19 @@ This repository contains my work in financial analysis, valuation, and data anal
 ### 4. Operational Efficiency Analysis
 - Objective: Identify inefficiencies and suggest cost optimization strategies  
 
+5. Defense Sector Relative Valuation
+
+Companies: HAL, BEL, Mazagon Dock, Bharat Dynamics
+Objective: Compare valuation multiples across four listed defense PSUs instead of building a single company DCF
+Key Learning:
+Built a peer comp table using EV/EBITDA, P/E, P/BV, and ROE sourced from public data instead of a paid terminal
+Learned to flag a valuation outlier by comparing one company's multiple against the peer average
+Used Excel formulas instead of hardcoded numbers, so the peer average and premium calculation update automatically if the data changes
+
 ## Tools Used:
-- Excel  
+- Excel
+- Power Query (data structuring)
+  Power Pivot (comp model)  
 - Python  
 - SQL 
 - Power BI
