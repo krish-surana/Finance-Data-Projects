@@ -36,9 +36,12 @@ Key Learning:
 - Learned to flag a valuation outlier by comparing one company's multiple against the peer average
 - Used Excel formulas instead of hardcoded numbers, so the peer average and premium calculation update automatically if the data changes
 
-- - **Business-Analytics**
-  - 
-  - FMCG cost allocation and management dashboard built in Power BI, covering cost drivers, margin leakage, and variance
+## 6. Business Analytics
+
+Objective: FMCG cost allocation and management dashboard
+
+- Built a Power BI dashboard covering cost drivers, margin leakage, and budget vs actual variance
+- Consolidated cost data across departments to identify loss making SKUs through overhead allocationtion and management dashboard built in Power BI, covering cost drivers, margin leakage, and variance
   - analysis        
 
 ## Tools Used:
