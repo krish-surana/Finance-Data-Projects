@@ -36,7 +36,7 @@ Key Learning:
 - Learned to flag a valuation outlier by comparing one company's multiple against the peer average
 - Used Excel formulas instead of hardcoded numbers, so the peer average and premium calculation update automatically if the data changes
 
-## 6. Business Analytics
+## 6. Business Analytics 
 
 Objective: FMCG cost allocation and management dashboard
 
